@@ -1,4 +1,6 @@
-## Start Connecting People with Mevert <img src="static/images/logo.png" width="70">
+Start Connecting People with Mevert
+<img src="mevert_logo.png" width="40">
+
 Visit: https://mevert.onrender.com
 
 
