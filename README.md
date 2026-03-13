@@ -15,7 +15,7 @@ Mevert makes it easier to meet new people, share experiences, and explore places
 ## Tech Stack
 Backend: Python / Flask  
 Frontend: HTML, CSS, JavaScript  
-Database: PostgreSQL
+Database: PostgreSQL                                                                                                                                                     
 Deployment: Render
 
 # Login page :
