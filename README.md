@@ -46,5 +46,5 @@ The full implementation of Mevert is maintained in a private repository.
 Access can be provided upon request for technical review or potential collaboration.
 
 Contact: https://x.com/miikkkell
-If you're interested in the technical architecture or collaboration, feel free to reach out.(x.com/miikkkell)
+
 
