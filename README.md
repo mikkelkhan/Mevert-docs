@@ -19,27 +19,33 @@ Database: PostgreSQL
 Deployment: Render
 
 # Login page :
-<img width="1903" height="877" alt="image" src="https://github.com/user-attachments/assets/a5a151cd-f141-48f5-a712-8fc54709c697" />
+
+<img src="/login-page.png" width="800" />
 
 
 Signup page:
-<img width="1917" height="876" alt="image" src="https://github.com/user-attachments/assets/0a498666-a754-42a2-a102-4d1e807918f4" />
+
+<img src="/signup.png" width="800" />
 
 
 Filter Page(it will filter the user by event location):
-<img width="1156" height="728" alt="image" src="https://github.com/user-attachments/assets/be4678e9-5e8f-4865-a395-50369602b1e9" />
+
+<img src="/filter-meet.png" width="800" />
 
 
 Profile Page:
-<img width="1216" height="841" alt="image" src="https://github.com/user-attachments/assets/6feca899-99cd-4b3c-9b9f-dba2ba95ce6c" />
+
+<img src="/profile page.png" width="800" />
 
 
-Event Creation Page:
-<img width="1088" height="792" alt="image" src="https://github.com/user-attachments/assets/f2d4cbeb-1327-4bc5-ad46-a492204dc87a" />
+My Event Page:
+
+<img src="/my_events.png" width="800" />
 
 
 Meet people :
-<img width="1577" height="837" alt="image" src="https://github.com/user-attachments/assets/aa1f285c-df26-40b6-b105-a07f3848b45a" />
+
+<img src="/Meet-People.png" width="800" />
 
 
 Source Code
